@@ -1,6 +1,6 @@
 # // Hi there 👋
 
-Me chamo José e atualmente estudo **Análise e Desenvolvimento de Sistemas** na **CESAR School** e de **Geografia (bacharelado)** na **UFPE**. Tenho descoberto um grande interesse por tecnologia, especialmente no desenvolvimento de sistemas com impacto social e urbano.
+Me chamo José e atualmente estudo **Análise e Desenvolvimento de Sistemas** na **CESAR School** e **Geografia (bacharelado)** na **UFPE**. Tenho descoberto um grande interesse por tecnologia, especialmente no desenvolvimento de sistemas com impacto social e urbano.
 
 Acredito que as áreas de tecnologia e geografia podem se complementar, principalmente no uso de dados espaciais e soluções digitais para cidades mais inteligentes.
 
